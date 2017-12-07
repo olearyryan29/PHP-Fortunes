@@ -1,0 +1,13 @@
+body {
+	width: 90%;
+	background-image: url(bg1.jpg);
+	color: white;
+	text-shadow: 1px 1px orange;
+	text-align: center;
+	margin: auto;
+}
+
+#story {
+	width: 75%;
+	margin: auto;
+}
